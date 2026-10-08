@@ -1,13 +1,24 @@
-# Part of the Zion AI App Network
+# Zion App Network — ai-infrastructure-monitor
 
-This app is a member of the Zion AI App Network — 360+ interlinked AI micro-apps by Zion Tech Group.
+AI Infrastructure Monitor — real-time infrastructure monitoring with AI-driven anomaly detection.
+Part of the **Zion AI App Network** — 870+ free, open-source, interlinked AI apps maintained by [Zion Tech Group](https://ziontechgroup.com).
 
-## Explore the network
-- Network hub: https://zion-support.github.io/zion-network/
-- Full apps showcase: https://ziontechgroup.com/apps/network.html
-- Free AI Discovery (instant app recommendations, results emailed to you): https://ziontechgroup.com/discovery/
-- Discovery benefits: https://ziontechgroup.com/apps/discovery-benefits.html
-- Plans & pricing: https://ziontechgroup.com/en/plans/
-- Main site: https://ziontechgroup.com
+- 🌐 **Live app:** https://ziontechgroup.com/ai-infrastructure-monitor/
+- 🗂️ **Network hub:** https://ziontechgroup.com/zion-app-network/ · [GitHub hub](https://github.com/Zion-support/zion-app-network)
+- 🔎 **Free Discovery (always online, always free):** https://ziontechgroup.com/discovery/ — results emailed instantly to you and commercial@ziontechgroup.com
+- 🏠 **Homepage:** https://ziontechgroup.com/ · 🛒 **Plans:** https://ziontechgroup.com/en/plans/
 
-Contact: commercial@ziontechgroup.com
+## AI Infrastructure & Edge family (interlinked)
+
+- [ai-edge-deployer](https://ziontechgroup.com/ai-edge-deployer/) · [repo](https://github.com/Zion-support/ai-edge-deployer)
+- [ai-cluster-manager](https://ziontechgroup.com/ai-cluster-manager/) · [repo](https://github.com/Zion-support/ai-cluster-manager)
+- [ai-infrastructure-monitor](https://ziontechgroup.com/ai-infrastructure-monitor/) · [repo](https://github.com/Zion-support/ai-infrastructure-monitor)
+- [ai-capacity-planner](https://ziontechgroup.com/ai-capacity-planner/) · [repo](https://github.com/Zion-support/ai-capacity-planner)
+
+## Related batches
+
+- [Batch 98 — Finance, Insurance & Space AI](https://ziontechgroup.com/apps/october-2026-batch17.html)
+- Batch 91 — Developer Productivity & Ops AI: [sql-query-explainer](https://ziontechgroup.com/sql-query-explainer/) · [technician-scheduler-ai](https://ziontechgroup.com/technician-scheduler-ai/) · [zion-agent-observability](https://ziontechgroup.com/zion-agent-observability/)
+- Full showcase: https://ziontechgroup.com/apps/network.html
+
+© 2026 Zion Tech Group · commercial@ziontechgroup.com
